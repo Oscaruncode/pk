@@ -1,0 +1,67 @@
+
+/* INDEX PAGE */
+#img1{ 
+    position: absolute;
+    top:0;
+    left:0;
+    z-index: 1;
+    width: 100%;
+    height: 100%;
+}
+#firstscreen{
+    color:brown;
+    border: 4px solid #e8abab;
+    z-index: 2;
+    position: absolute;
+    top:35%;
+    left:30%;
+    width: 500px;
+    padding: 0;
+    text-align: center;
+    font-size: 100px;
+}
+#buttonplay{
+    position: absolute;
+    top:70%;
+    left:45%;
+    font-size: 45px;
+    z-index: 3;
+}
+/* LOGIN PAGE */
+
+
+/* MAINPAGE */
+.tabs
+{
+    position:absolute;
+    top:10%;
+    left:30%;
+    border: solid rgb(43, 10, 10);
+}
+.amigos{display: inline-block;}
+.linksamigos a{display:block;}
+#desplegar{display:none;}
+/*.linksamigos a{
+    display:none;
+}
+.show{display:block}*/
+
+
+
+
+
+
+.b
+{
+    
+     width:100px;
+    height:100px;
+    background:#fffefe;
+    font-family:arial;
+    font-weight:bold;
+    color:#EEEEEE;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: 100;
+}
